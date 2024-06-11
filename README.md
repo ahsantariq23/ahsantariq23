@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask for building RESTful APIs and backend development, as well as AWS cloud computing**
 
-- 💬 Ask me about **React, flask**
+- 💬 Ask me about **React, Flask , DevOps**
 
 - 📫 How to reach me **ahsantariq250@gmail.com**
 
